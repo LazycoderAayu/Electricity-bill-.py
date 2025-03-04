@@ -5,14 +5,12 @@
 ## 📜 About  
 This is a **Python-based Electricity Bill Calculator** that helps you compute your electricity bill based on the units consumed. It currently supports only **popular cities in India** and includes key calculations based on electricity tariffs.  
 
-🔹 Simply input the number of units, and it will estimate your bill amount.  
+🔹 Simply input the number of units, and it will estimate your bill amount and you should also know your electricity provider.  
 🔹 Built for quick calculations & accuracy.  
 
 ## 🔑 Key Features  
 ✅ Calculates electricity bills based on **popular Indian cities**  
 ✅ Uses real tariff rates for better estimation  
-✅ Simple and interactive CLI interface  
-✅ Easy to expand for new locations  
 
 ## 📊 States/Cities Included  
 This program currently supports electricity bill calculations for the following **major cities in India**:  
