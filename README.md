@@ -1,4 +1,4 @@
-# ⚡ Electricity Bill Generator (Python)  
+# ⚡ Electricity Bill Calculator (Python)  
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
 
